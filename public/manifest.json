@@ -1,0 +1,15 @@
+{
+    "short_name": "CrewLifeSolution",
+    "name": "CrewLifeSolution - Simplifying Aviation Life",
+    "icons": [
+      {
+        "src": "/logo.png",
+        "type": "image/png",
+        "sizes": "500x500"
+      }
+    ],
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#007bff"
+  }
